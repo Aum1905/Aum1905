@@ -11,5 +11,16 @@ I’m a Computer Science student and full-stack developer focused on building mo
 ![](https://github-readme-stats.shion.dev/api?username=Aum1905&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Aum1905&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aum1905&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## ☁️ AWS Certifications
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+
+  <a href="https://www.credly.com/badges/abf4f572-2f63-4f5b-8903-7dfcd3d128f4/public_url" target="_blank">
+    <img src="./certificates/AWS_Data_Engineering.png" width="350"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/b72c17cc-f820-45f9-b939-5b076f51af05/public_url" target="_blank">
+    <img src="./certificates/AWS_Machine_Learning.png" width="350"/>
+  </a>
+
+</p>

@@ -16,11 +16,11 @@ I’m a Computer Science student and full-stack developer focused on building mo
 <p align="center">
 
   <a href="https://www.credly.com/badges/abf4f572-2f63-4f5b-8903-7dfcd3d128f4/public_url" target="_blank">
-    <img src="./certificates/AWS_Data_Engineering.png" width="350"/>
+    <img src="./AWS_Data_Engineering.png" width="350"/>
   </a>
 
   <a href="https://www.credly.com/badges/b72c17cc-f820-45f9-b939-5b076f51af05/public_url" target="_blank">
-    <img src="./certificates/AWS_Machine_Learning.png" width="350"/>
+    <img src="./AWS_Machine_Learning.png" width="350"/>
   </a>
 
 </p>

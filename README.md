@@ -23,4 +23,8 @@ I’m a Computer Science student and full-stack developer focused on building mo
     <img src="./AWS_Machine_Learning.png" width="350"/>
   </a>
 
+   <a href="https://www.credly.com/badges/ec7bc13c-9ecc-49c5-bcf7-ced8c9221b63/public_url" target="_blank">
+    <img src="./Generative AI Foundations.png" width="350"/>
+  </a>
+
 </p>
